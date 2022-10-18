@@ -106,7 +106,7 @@ ul {
   background-color: var(--team-background-color);
   margin-bottom: 94px;
 }
-figure {
+.figure-margin {
   margin: 0;
 }
 
